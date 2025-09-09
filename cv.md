@@ -33,7 +33,7 @@ function rgb(r, g, b) {
 ```
 
 ### Experience
-Currently I'm working as a UI designer in game company. Mostly my frontend experience is in studying courses. I solved a bunch of Codewars problems and LeetCode problems. I made several html pages with css and js during previous RS School courses
+Currently, I’m working as a UI designer in a game company. My frontend experience comes mainly from studying courses and practicing on my own. I’ve solved a variety of problems on Codewars and LeetCode, which helped me strengthen my algorithmic thinking and programming skills. During previous RS School courses, I also built several HTML pages with CSS and JavaScript, which gave me hands-on practice in creating interactive layouts.
 
 ### Education
 St. Petersburg Institute of International Economic Relations, Economics and Law (IIEREL) - IVESEP
